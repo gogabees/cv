@@ -119,13 +119,10 @@ Here are some of the key certifications I have obtained:
 - **Network Security**
 - **Database Administration**
 
-## Projects
-
-You can find some of my projects in the [Projects](./projects) directory. Each project includes a detailed description, the technologies used, and the outcomes achieved.
 
 ## Contact
 
-Feel free to reach out to me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+Feel free to reach out to me via [email](mailto:gogabees@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/donovan-van-graan/)).
 
 Thank you for visiting my CV repository!
 
