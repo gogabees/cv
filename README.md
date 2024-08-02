@@ -8,7 +8,6 @@ Welcome to my CV repository! This repository contains all the necessary files an
 - [Education](#education)
 - [Licenses & Certifications](#licenses--certifications)
 - [Skills](#skills)
-- [Projects](#projects)
 - [Contact](#contact)
 
 ## About Me
